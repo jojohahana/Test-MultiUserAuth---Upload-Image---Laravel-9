@@ -1,3 +1,19 @@
+## Test Multi User & Upload Image on Laravel 9 
+
+Multi User for testing login with different role such as : Admin & User 
+Parsing for different blade use Auth & Middle ware 
+
+Upload Image and save on publc file
+
+## Result 
+[![image.png](https://i.postimg.cc/c4Wyf6sT/image.png)](https://postimg.cc/nM3PJF9Q)
+[![image.png](https://i.postimg.cc/sx9LT9Vm/image.png)](https://postimg.cc/H8n3xM88)
+
+## Tutorial from :
+https://www.tutsmake.com/laravel-9-multi-user-authentication-example/ || & ||
+https://link.medium.com/cyLClM3plxb
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
