@@ -10,7 +10,7 @@ Upload Image and save on publc file
 [![image.png](https://i.postimg.cc/sx9LT9Vm/image.png)](https://postimg.cc/H8n3xM88)
 
 ## Tutorial from :
-https://www.tutsmake.com/laravel-9-multi-user-authentication-example/
+https://www.tutsmake.com/laravel-9-multi-user-authentication-example/ || & ||
 https://link.medium.com/cyLClM3plxb
 
 
